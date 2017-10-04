@@ -1,0 +1,38 @@
+{
+  "name": "Scuola Prati",
+  "menu": [
+    {
+      "valid_from": "05/09/2017",
+      "valid_to": "20/10/2017",
+      "date_start": "04/09/2017",
+      "week_1": {
+        "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_2": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_3": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_4": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_5": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca"
+      },
+      "week_2": {
+        "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_2": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_3": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_4": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_5": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca"
+      },
+      "week_3": {
+        "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_2": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_3": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_4": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_5": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca"
+      },
+      "week_4": {
+        "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_2": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_3": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_4": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
+        "day_5": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca"
+      }      
+    }
+  ]
+}
