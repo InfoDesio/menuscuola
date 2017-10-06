@@ -2,5 +2,9 @@
   {
     "Nome": "Scuole dell’Infanzia e Primarie",
     "Link": "primaria"
-  }
+  },
+  {
+    "Nome": "Scuole Secondarie 1°",
+    "Link": "secondaria"
+  }  
 ]
