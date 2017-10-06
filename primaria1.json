@@ -5,6 +5,7 @@
       "valid_from": "05/09/2017",
       "valid_to": "20/10/2017",
       "date_start": "04/09/2017",
+      "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
         "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
         "day_2": "Vellutata di verdure* con pastina|Pollo al forno|Patate all’olio|Pane|Frutta fresca",
@@ -17,7 +18,7 @@
         "day_2": "Gnocchi al pesto|Hamburger di manzo*|Insalata verde e carote|Pane|Frutta fresca",
         "day_3": "Pasta olio e grana|Frittata con verdure*|Pomodori in insalata|Pane|Frutta fresca",
         "day_4": "Pasta pomodoro e lenticchie|Pepite di pollo*|Carote baby*|Pane INTEGRALE|Frutta fresca",
-        "day_5": "Riso al pomodoro con verdure*|Tonno|Insalata e mais*|Pane|Frutta fresca"
+        "day_5": "Riso al pomodoro con verdure*|Tonno|Insalata e mais*|Pane|Frutta fresca||AGNESI/DOLOMITI/SAN GIORGIO|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio"
       },
       "week_3": {
         "day_1": "PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio",
