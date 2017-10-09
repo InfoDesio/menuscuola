@@ -1,0 +1,39 @@
+{
+  "name": "Scuola Infanzia Umberto I",
+  "menu": [
+    {
+      "valid_from": "05/09/2017",
+      "valid_to": "20/10/2017",
+      "date_start": "04/09/2017",
+      "note": "Il pane integrale è somministrato una volta a settimana. Il pane è a ridotto contenuto di sale come da nota regionale",
+      "week_1": {
+        "day_1": "Riso alla Parmigiana|Polpette di manzo al forno|Carote Julienne|Frutta di Stagione",
+        "day_2": "Pasta al Pomodoro e Ceci|Scaloppina di Tacchino|Insalata Mista|Frutta di Stagione",
+        "day_3": "Pasta alla ligure (pesto, patate e fagiolini)|Fish Nuggets o Platessa|Pomodori e Mais|Frutta di Stagione",
+        "day_4": "Pizza Margherita|1/2 porz. Prosciutto cotto|Fagiolini|Yogurt / Gelato semifreddo",
+        "day_5": "Minestra estiva con legumi|Rollata di Frittata|Patate al forno|Frutta di Stagione"
+      },
+      "week_2": {
+        "day_1": "Pennette al Pesto|Prosciutto Cotto e Bresaola|Finocchi Crudi|Frutta di Stagione",
+        "day_2": "Gnocchi al ragù di carne|Carote Julienne|Torta/ Gelato Semifreddo",
+        "day_3": "Passato di verdure con legumi|Hamburger alla pizzaiola|Patate al forno|Frutta di Stagione",
+        "day_4": "Riso allo zafferano|Cosce di pollo al Forno|Pomodori|Frutta di Stagione",
+        "day_5": "Agnolotti di magro alla salvia|Bastoncini di pesce|Insalata Ricca con Piselli|Frutta di Stagione"
+      },
+      "week_3": {
+        "day_1": "Pennette al Pomodoro|Crocchette di Verdura|Fagiolini|Frutta di Stagione",
+        "day_2": "Riso alla Cantonese|Scaloppina di Lonza|Insalata Mista|Frutta di Stagione",
+        "day_3": "Minestra estiva con legumi|Polpette di manzo alla Pizzaiola|Patate al forno|Frutta di Stagione",
+        "day_4": "Pizza Margherita|1/2 porz. Prosciutto cotto|Carote Julienne|Yogurt / Gelato semifreddo",
+        "day_5": "Pasta allo Zafferano e Zucchine|Tonno|Erbette|Frutta di Stagione"
+      },
+      "week_4": {
+        "day_1": "Pennette Pomodoro e Melanzane|Mozzarella|Insalata Ricca con Piselli|Frutta di Stagione",
+        "day_2": "Lasagne|Carote Julienne e Mais|Budino/ Gelato Semifreddo",
+        "day_3": "Minestra estiva con legumi-verdure con orzo|Fesa di tacchino|Patate al forno|Frutta di Stagione",
+        "day_4": "Maccheroncini alla Salvia|Bocconcini di pollo|Pomodori|Frutta di Stagione",
+        "day_5": "Risotto allo zafferano|Platessa o Limanda dorata|Zucchine /Spinaci|Frutta di Stagione"
+      }
+    }
+  ]
+}
