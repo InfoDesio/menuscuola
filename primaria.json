@@ -5,6 +5,7 @@
       "valid_from": "05/09/2017",
       "valid_to": "21/10/2017",
       "date_start": "04/09/2017",
+      "pdf":"17-18-PRIMARIA_ESTIVO.pdf",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
         "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
@@ -39,6 +40,7 @@
       "valid_from": "22/10/2017",
       "valid_to": "13/04/2018",
       "date_start": "02/10/2017",
+      "pdf":"17-18-PRIMARIA_INVERNALE.pdf",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
         "day_1": "Riso con crema di zafferano|Bocconcini di merluzzo panati*|Fagiolini all’olio*|Pane|Yogurt alla frutta",
@@ -73,6 +75,7 @@
       "valid_from": "16/04/2018",
       "valid_to": "30/06/2018",
       "date_start": "02/04/2018",
+      "pdf":"17-18-PRIMARIA_ESTIVO.pdf",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
         "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
