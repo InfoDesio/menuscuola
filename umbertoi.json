@@ -34,6 +34,40 @@
         "day_4": "Maccheroncini alla Salvia|Bocconcini di pollo|Pomodori|Frutta di Stagione",
         "day_5": "Risotto allo zafferano|Platessa o Limanda dorata|Zucchine /Spinaci|Frutta di Stagione"
       }
+    },
+    {
+      "valid_from": "01/11/2017",
+      "valid_to": "30/04/2018",
+      "date_start": "30/10/2017",
+      "note": "IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA",
+      "week_1": {
+        "day_1": "Riso al Pomodoro|Frittata|Piselli spadellati 1/2 porz.|Frutta di Stagione",
+        "day_2": "Maccheroncini alla Salvia|Cosce di pollo al forno|Carote Julienne|Frutta di Stagione",
+        "day_3": "Crema di verdure e legumi con pasta|Polpette al sugo e origano|Patate al forno|Frutta di Stagione",
+        "day_4": "Pizza Margherita|Una fetta di Prosciutto cotto|Finocchi crudi|Budino - Yogurt",
+        "day_5": "Pasta alla ligure|Fish Nuggets|(Bocconcini di Merluzo)|Insalata|Frutta di Stagione"
+      },
+      "week_2": {
+        "day_1": "Risotto allo zafferano|Mozzarella|Insalata|Frutta di Stagione",
+        "day_2": "Psta e fagioli o pasta e lenticchie|1/2 porz.fesa di tacchino|Carote crude|Torta",
+        "day_3": "Passato di verdure e legumi con Farro|Hamburger alla pizzaiola|Purè|Frutta di Stagione",
+        "day_4": "Pasta Pasticciata|Finocchi crudi|Budino o Yogurt",
+        "day_5": "Spaghetti al Pomodoro|Platessa Gratinata|Fagiolini|Frutta di Stagione"
+      },
+      "week_3": {
+        "day_1": "Gnocchi al pesto|Crocchette di vertura|Insalata|Budino",
+        "day_2": "Pasta al ragù vegetale|Cosce di pollo al forno|Fagiolini|Frutta di Stagione",
+        "day_3": "Minestrone di verdure e legumi con pasta|Scaloppa di Lonza|Patate al forno|Frutta di Stagione",
+        "day_4": "Pizza Margherita|Una fetta di Prosciutto Cotto|Finocchi cotti|Frutta di Stagione",
+        "day_5": "Riso all'inglese con piselli|Tonno|Erbette|Frutta di Stagione"
+      },
+      "week_4": {
+        "day_1": "Pasta allo zafferano e zucchine|Formaggio Fresco|Fagiolini|Frutta di Stagione",
+        "day_2": "Riso con verdure|Fesa di Tacchino al limone|Piselli spadellati 1/2 porz.|Frutta di Stagione",
+        "day_3": "Minestrone di verdure e legumi con orzo|Scaloppina di Lonza|Patate al forno|Frutta di Stagione",
+        "day_4": "Lasagne|Carote cotte|Budino o Yogurt",
+        "day_5": "Pasta al Pomodoro|Bastoncini di Pesce|Finocchi Crudi|Frutta di Stagione"
+      }
     }
   ]
 }
