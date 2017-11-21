@@ -41,32 +41,32 @@
       "date_start": "30/10/2017",
       "note": "IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA",
       "week_1": {
-        "day_1": "Riso al Pomodoro|Frittata|Piselli spadellati 1/2 porz.|Frutta di Stagione",
-        "day_2": "Maccheroncini alla Salvia|Cosce di pollo al forno|Carote Julienne|Frutta di Stagione",
-        "day_3": "Crema di verdure e legumi con pasta|Polpette al sugo e origano|Patate al forno|Frutta di Stagione",
-        "day_4": "Pizza Margherita|Una fetta di Prosciutto cotto|Finocchi crudi|Budino - Yogurt",
-        "day_5": "Pasta alla ligure|Fish Nuggets|(Bocconcini di Merluzo)|Insalata|Frutta di Stagione"
+        "day_1": "Pasta Aurora|Polpette di Manzo in umido|Insalata/Pomodori|Frutta di Stagione",
+        "day_2": "Minestrone-Passato di Verdura con Pasta|Straccetti di Pollo|Patate al forno|Frutta di Stagione",
+        "day_3": "Pasta Zafferano e Zucchine|Rollata di Frittata|Piselli Spadellati|Frutta di Stagione",
+        "day_4": "Pizza Margherita Integrale|1/2 porz. Prosciutto Cotto |Fagiolini|Budino - Yogurt",
+        "day_5": "Ravioli di magro al burro e salvi|Platessa o Limanda Gratinata |Carote Gratinate |Frutta di Stagione|"
       },
       "week_2": {
-        "day_1": "Risotto allo zafferano|Mozzarella|Insalata|Frutta di Stagione",
-        "day_2": "Pasta e fagioli o pasta e lenticchie|1/2 porz.fesa di tacchino|Carote crude|Torta",
-        "day_3": "Passato di verdure e legumi con Farro|Hamburger alla pizzaiola|Purè|Frutta di Stagione",
-        "day_4": "Pasta Pasticciata|Finocchi crudi|Budino o Yogurt",
-        "day_5": "Spaghetti al Pomodoro|Platessa Gratinata|Fagiolini|Frutta di Stagione"
+        "day_1": "Pennette al Pesto |Prosciutto Cotto e Crudo |Finocchi Gratinati|Frutta di Stagione",
+        "day_2": "Pasta Pasticciata con Besciamelle e Ragù di Carne|Carote Julienne|Frutta di stagione",
+        "day_3": "Passato di Verdura e Legumi con Pasta o Orzo|Cosce di Pollo al Forno|Purè|Torta",
+        "day_4": "Pasta  all'Ortolana |Hamburger alla Pizzaiola|Insalata Ricca con Piselli|Frutta di Stagione",
+        "day_5": "Risotto allo Zafferano|Bastoncini di Pesce |Spinaci|Frutta di Stagione"
       },
       "week_3": {
-        "day_1": "Gnocchi al pesto|Crocchette di vertura|Insalata|Budino",
-        "day_2": "Pasta al ragù vegetale|Cosce di pollo al forno|Fagiolini|Frutta di Stagione",
-        "day_3": "Minestrone di verdure e legumi con pasta|Scaloppa di Lonza|Patate al forno|Frutta di Stagione",
-        "day_4": "Pizza Margherita|Una fetta di Prosciutto Cotto|Finocchi cotti|Frutta di Stagione",
-        "day_5": "Riso all'inglese con piselli|Tonno|Erbette|Frutta di Stagione"
+        "day_1": "Pennette al Pomodoro e Melanzane |Cotoletta di merluzzo|Broccoli|Frutta di Stagione",
+        "day_2": "Gnocchi al Pomodoro|Scaloppina di Lonza |Insalata Ricca con Piselli|Frutta di Stagione",
+        "day_3": "Pastina al Brodo Vegetale |Polpette di Manzo al Forno |Patate al Forno|Frutta di Stagione",
+        "day_4": "Pizza Margherita Integrale|1/2 porz. Prosciutto Cotto |Fagiolini|Budino - Yogurt",
+        "day_5": "Pasta Pomodoro e Ceci |Crocchette di Verdura |Zucchine|Frutta di Stagione"
       },
       "week_4": {
-        "day_1": "Pasta allo zafferano e zucchine|Formaggio Fresco|Fagiolini|Frutta di Stagione",
-        "day_2": "Riso con verdure|Fesa di Tacchino al limone|Piselli spadellati 1/2 porz.|Frutta di Stagione",
-        "day_3": "Minestrone di verdure e legumi con orzo|Scaloppina di Lonza|Patate al forno|Frutta di Stagione",
-        "day_4": "Lasagne|Carote cotte|Budino o Yogurt",
-        "day_5": "Pasta al Pomodoro|Bastoncini di Pesce|Finocchi Crudi|Frutta di Stagione"
+        "day_1": "Spaghetti al Pomodoro e Ragù Vegetale |Primo Sale o Mozzarella |Piselli o Cannellini Spadellati|Frutta di Stagione",
+        "day_2": "Lasagne alla bolognese|Carote Julienne |Frutta di stagione",
+        "day_3": "Passato di Verdura e Legumi con Pasta |Fesa di Tacchino|Patate lesse|Frutta di Stagione o Yogurt ",
+        "day_4": "Gemellini all'Olio|Cotoletta di Pollo|Finocchi|Frutta di Stagione",
+        "day_5": "Riso al Pomodoro |Platessa o Limanda Gratinata |Zucchine o Spinaci |Frutta di Stagione"
       }
     }
   ]
