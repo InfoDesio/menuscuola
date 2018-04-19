@@ -37,7 +37,7 @@
     },
     {
       "valid_from": "01/11/2017",
-      "valid_to": "30/04/2018",
+      "valid_to": "15/04/2018",
       "date_start": "01/01/2018",
       "note": "IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA",
       "week_1": {
@@ -67,6 +67,40 @@
         "day_3": "Passato di Verdura e Legumi con Pasta |Fesa di Tacchino|Patate lesse|Frutta di Stagione o Yogurt ",
         "day_4": "Gemellini all'Olio|Cotoletta di Pollo|Finocchi|Frutta di Stagione",
         "day_5": "Riso al Pomodoro |Platessa o Limanda Gratinata |Zucchine o Spinaci |Frutta di Stagione"
+      }
+    },
+    {
+      "valid_from": "16/04/2018",
+      "valid_to": "30/06/2018",
+      "date_start": "16/04/2018",
+      "note": "Il pane integrale è somministrato una volta a settimana. Il pane è a ridotto contenuto di sale come da nota regionale",
+      "week_1": {
+        "day_1": "Riso al pomodoro|Polpette di manzo al forno|Carote Julienne|Frutta di Stagione",
+        "day_2": "Pasta al Pomodoro e Ceci|Scaloppina di Tacchino|Insalata Mista|Frutta di Stagione",
+        "day_3": "Pasta alla ligure (pesto, patate e fagiolini)|Fish Nuggets|Pomodori e Mais|Frutta di Stagione",
+        "day_4": "Pizza Margherita|1/2 porz. Prosciutto cotto|Fagiolini|Yogurt / Gelato semifreddo",
+        "day_5": "Minestra estiva con legumi|Rollata di Frittata|Patate al forno|Frutta di Stagione"
+      },
+      "week_2": {
+        "day_1": "Pennette al Pesto|Prosciutto Cotto e Crudo|Finocchi Crudi|Frutta di Stagione",
+        "day_2": "Gnocchi al ragù di carne|Carote Julienne|Torta/ Gelato Semifreddo",
+        "day_3": "Passato di verdure con legumi|Cosce di pollo al forno|Patate al forno|Frutta di Stagione",
+        "day_4": "Agnolotti di magro alla Salvia|Hamburger alla Pizzaiola|Pomodori|Frutta di Stagione",
+        "day_5": "Riso allo Zafferano|Bastoncini di pesce|Insalata Ricca con Piselli|Frutta di Stagione"
+      },
+      "week_3": {
+        "day_1": "Spaghetti al pomodoro|Crocchette di Verdura|Fagiolini|Frutta di Stagione",
+        "day_2": "Riso alla Cantonese|Scaloppina di Lonza|Insalata Mista|Frutta di Stagione",
+        "day_3": "Minestra estiva con legumi|Polpette di manzo alla Pizzaiola|Patate al forno|Frutta di Stagione",
+        "day_4": "Pizza Margherita|1/2 porz. Prosciutto cotto|Carote Julienne|Yogurt / Gelato semifreddo",
+        "day_5": "Pasta allo Zafferano e Zucchine|Tonno|Erbette|Frutta di Stagione"
+      },
+      "week_4": {
+        "day_1": "Pennette Pomodoro e Melanzane|Mozzarella|Insalata Ricca con Piselli|Frutta di Stagione",
+        "day_2": "Lasagne alla bolognese|Carote Julienne e Mais|Budino/ Gelato Semifreddo",
+        "day_3": "Minestra estiva con legumi-verdure con orzo|Fesa di tacchino|Patate al forno|Frutta di Stagione",
+        "day_4": "Maccheroncini alla Salvia|Cotoletta di Pollo|Pomodori|Frutta di Stagione",
+        "day_5": "Risotto allo zafferano|Platessa olimanda dorata|Zucchine/Spinaci|Frutta di Stagione"
       }
     }
   ]
