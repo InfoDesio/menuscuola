@@ -2,38 +2,38 @@
   "name": "Scuole dell’Infanzia e Primarie",
   "menu": [
     {
-      "valid_from": "05/09/2017",
-      "valid_to": "21/10/2017",
-      "date_start": "04/09/2017",
-      "pdf":"17-18-PRIMARIA_ESTIVO.pdf",
+      "valid_from": "10/09/2018",
+      "valid_to": "19/10/2018",
+      "date_start": "10/09/2018",
+      "pdf":"",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
-        "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
-        "day_2": "Vellutata di verdure* con pastina|Pollo al forno|Patate all’olio|Pane|Frutta fresca",
-        "day_3": "Riso al pomodoro|Arrosto di lonza|Spinaci all’olio*|Pane|Frutta fresca",
-        "day_4": "Pasta olio e grana|Bocconcini di tacchino con carote e fagiolini* al pomodoro|Pane INTEGRALE|Succo di frutta",
-        "day_5": "Pasta integrale al pomodoro, capperi e olive*|Platessa impanata*|Insalata|Pane|Frutta fresca"
+        "day_1": "Pasta in salsa mimosa|Prosciutto cotto - Scuola Infanzia|Bresaola - Scuola Primaria|Carote a fili - Pane - Frutta fresca",
+        "day_2": "Vellutata di verdure* con pastina|Pollo al forno|Patate all’olio*|Pane|Frutta fresca",
+        "day_3": "Riso al pomodoro|Formaggio Latteria|Spinaci all’olio*|Pane - Frutta fresca",
+        "day_4": "Pasta olio e grana|Omelette* o Uova sode|Insalata|Pane INTEGRALE|Yogurt alla frutta bio",
+        "day_5": "Pasta integrale al pomodoro, capperi|e olive*|Platessa impanata*|Piselli e carote*|Pane|Frutta fresca"
       },
       "week_2": {
-        "day_1": "Pasta in brodo vegetale di carote, sedano e cipolla|Affettato di tacchino|Patate al forno|Pane|Frutta fresca",
-        "day_2": "Gnocchi al pesto|Hamburger di manzo*|Insalata verde e carote|Pane|Frutta fresca",
-        "day_3": "Pasta olio e grana|Frittata con verdure*|Pomodori in insalata|Pane|Frutta fresca",
-        "day_4": "Pasta pomodoro e lenticchie|Pepite di pollo*|Carote baby*|Pane INTEGRALE|Frutta fresca",
-        "day_5": "Riso al pomodoro con verdure*|Tonno|Insalata e mais*|Pane|Frutta fresca||AGNESI/DOLOMITI/SAN GIORGIO|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio"
+        "day_1": "Pasta in brodo vegetale di carote,|sedano e cipolla|Tonno - Patate al forno*|Pane - Frutta fresca",
+        "day_2": "Gnocchi al pesto|Polpette di manzo al pomodoro*|Carote baby*|Pane|Frutta fresca",
+        "day_3": "Pasta olio e grana|Frittata con verdure*|Insalata e mais*|Pane - Frutta fresca",
+        "day_4": "Pasta pomodoro e lenticchie|Bocconcini di pollo impanati|Pomodori in insalata|Pane INTEGRALE|Frutta fresca",
+        "day_5": "Riso al pomodoro|con verdure*|Formaggio fresco|spalmabile -|Insalata verde e|carote - Pane -|Frutta fresca||AGNESI/DOLOMITI/SAN GIORGIO|Pizza margherita|Insalata verde e|carote – Pane|Yogurt frutta bio"
       },
       "week_3": {
-        "day_1": "Ravioli ricotta e spinaci olio e salvia|Prosciutto cotto|Zucchine e carote julienne|Pane|Frutta fresca||TOLSTOY/DIAZ/PRATI|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio",
+        "day_1": "Ravioli ricotta e spinaci olio e salvia -|Affettato di tacchino -|Zucchine e carote julienne|Pane - Frutta fresca",
         "day_2": "Risotto alla parmigiana|Pollo al forno|Fagiolini all’olio*|Pane|Frutta fresca",
-        "day_3": "Minestra estiva con farro*|Hamburger vegetale*|Insalata|Pane|Frutta fresca",
-        "day_4": "Pasta tricolore con speck e zucchine*|Mozzarella alla caprese|Pane INTEGRALE|Frutta fresca",
+        "day_3": "Minestra estiva con farro*|Tortino di verdure e legumi*|Insalata|Pane - Frutta fresca",
+        "day_4": "Pasta tricolore con|speck e zucchine*|Mozzarella alla|caprese|Pane INTEGRALE|Frutta fresca||TOLSTOJ/DIAZ/PRATI|Pizza margherita|Pomodori in|insalata|Pane – Yogurt alla frutta bio",
         "day_5": "Pasta integrale al pomodoro e basilico|Fettuccine di totano gratinato*|Carote a fili|Pane|Mousse di frutta"
       },
       "week_4": {
-        "day_1": "Pasta alla norma|Uova sode|Insalata verde e rossa|Pane|Frutta fresca",
-        "day_2": "Pastina in brodo vegetale di carote, sedano e cipolla|Formaggio|Carote a fili|Pane|Frutta fresca||SCUOLA INFANZIA|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio",
-        "day_3": "Pasta integrale al ragù di verdure*|Bastoncini di pesce*|Pomodori e cetrioli|Pane|Frutta fresca",
-        "day_4": "Pasta al pesto|Hamburger di manzo* al pomodoro|Fagiolini all’olio*|Pane INTEGRALE|Frutta fresca",
-        "day_5": "Insalata di pasta (tonno, pomodori, formaggio, mais, olive)|Piselli saporiti*|Pane|Frutta fresca"
+        "day_1": "Pasta alla norma|Hamburger di manzo*|Insalata verde e rossa|Pane - Frutta fresca",
+        "day_2": "Pastina in brodo|vegetale di carote,|sedano e cipolla|Formaggio fresco|spalmabile|Carote a fili - Pane|Frutta fresca||SCUOLA INFANZIA|Pizza margherita|Carote a fili|Pane – Yogurt alla frutta bio",
+        "day_3": "Pasta integrale al ragù di verdure*|Bastoncini di merluzzo*|Pomodori e cetrioli|Pane - Frutta fresca",
+        "day_4": "Pasta al pesto|Scaloppina di tacchino alla salvia|Carote e fagiolini*|Pane INTEGRALE|Frutta fresca",
+        "day_5": "Insalata di pasta (tonno, pomodori, formaggio, mais, olive)|Piselli saporiti*|Pane|Budino"
       }
     },
     {
@@ -72,38 +72,38 @@
       }
     },
     {
-      "valid_from": "16/04/2018",
-      "valid_to": "30/06/2018",
-      "date_start": "16/04/2018",
+      "valid_from": "15/04/2019",
+      "valid_to": "30/06/2019",
+      "date_start": "15/04/2019",
       "pdf":"17-18-PRIMARIA_ESTIVO.pdf",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
-        "day_1": "Pasta in salsa mimosa|Bresaola|Carote a fili|Pane|Frutta fresca",
-        "day_2": "Vellutata di verdure* con pastina|Pollo al forno|Patate all’olio|Pane|Frutta fresca",
-        "day_3": "Riso al pomodoro|Arrosto di lonza|Spinaci all’olio*|Pane|Frutta fresca",
-        "day_4": "Pasta olio e grana|Bocconcini di tacchino con carote e fagiolini* al pomodoro|Pane INTEGRALE|Succo di frutta",
-        "day_5": "Pasta integrale al pomodoro, capperi e olive*|Platessa impanata*|Insalata|Pane|Frutta fresca"
+        "day_1": "Pasta in salsa mimosa|Prosciutto cotto - Scuola Infanzia|Bresaola - Scuola Primaria|Carote a fili - Pane - Frutta fresca",
+        "day_2": "Vellutata di verdure* con pastina|Pollo al forno|Patate all’olio*|Pane|Frutta fresca",
+        "day_3": "Riso al pomodoro|Formaggio Latteria|Spinaci all’olio*|Pane - Frutta fresca",
+        "day_4": "Pasta olio e grana|Omelette* o Uova sode|Insalata|Pane INTEGRALE|Yogurt alla frutta bio",
+        "day_5": "Pasta integrale al pomodoro, capperi|e olive*|Platessa impanata*|Piselli e carote*|Pane|Frutta fresca"
       },
       "week_2": {
-        "day_1": "Pasta in brodo vegetale di carote, sedano e cipolla|Affettato di tacchino|Patate al forno|Pane|Frutta fresca",
-        "day_2": "Gnocchi al pesto|Hamburger di manzo*|Insalata verde e carote|Pane|Frutta fresca",
-        "day_3": "Pasta olio e grana|Frittata con verdure*|Pomodori in insalata|Pane|Frutta fresca",
-        "day_4": "Pasta pomodoro e lenticchie|Pepite di pollo*|Carote baby*|Pane INTEGRALE|Frutta fresca",
-        "day_5": "Riso al pomodoro con verdure*|Tonno|Insalata e mais*|Pane|Frutta fresca||AGNESI/DOLOMITI/SAN GIORGIO|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio"
+        "day_1": "Pasta in brodo vegetale di carote,|sedano e cipolla|Tonno - Patate al forno*|Pane - Frutta fresca",
+        "day_2": "Gnocchi al pesto|Polpette di manzo al pomodoro*|Carote baby*|Pane|Frutta fresca",
+        "day_3": "Pasta olio e grana|Frittata con verdure*|Insalata e mais*|Pane - Frutta fresca",
+        "day_4": "Pasta pomodoro e lenticchie|Bocconcini di pollo impanati|Pomodori in insalata|Pane INTEGRALE|Frutta fresca",
+        "day_5": "Riso al pomodoro|con verdure*|Formaggio fresco|spalmabile -|Insalata verde e|carote - Pane -|Frutta fresca||AGNESI/DOLOMITI/SAN GIORGIO|Pizza margherita|Insalata verde e|carote – Pane|Yogurt frutta bio"
       },
       "week_3": {
-        "day_1": "Ravioli ricotta e spinaci olio e salvia|Prosciutto cotto|Zucchine e carote julienne|Pane|Frutta fresca||TOLSTOY/DIAZ/PRATI|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio",
+        "day_1": "Ravioli ricotta e spinaci olio e salvia -|Affettato di tacchino -|Zucchine e carote julienne|Pane - Frutta fresca",
         "day_2": "Risotto alla parmigiana|Pollo al forno|Fagiolini all’olio*|Pane|Frutta fresca",
-        "day_3": "Minestra estiva con farro*|Hamburger vegetale*|Insalata|Pane|Frutta fresca",
-        "day_4": "Pasta tricolore con speck e zucchine*|Mozzarella alla caprese|Pane INTEGRALE|Frutta fresca",
+        "day_3": "Minestra estiva con farro*|Tortino di verdure e legumi*|Insalata|Pane - Frutta fresca",
+        "day_4": "Pasta tricolore con|speck e zucchine*|Mozzarella alla|caprese|Pane INTEGRALE|Frutta fresca||TOLSTOJ/DIAZ/PRATI|Pizza margherita|Pomodori in|insalata|Pane – Yogurt alla frutta bio",
         "day_5": "Pasta integrale al pomodoro e basilico|Fettuccine di totano gratinato*|Carote a fili|Pane|Mousse di frutta"
       },
       "week_4": {
-        "day_1": "Pasta alla norma|Uova sode|Insalata verde e rossa|Pane|Frutta fresca",
-        "day_2": "Pastina in brodo vegetale di carote, sedano e cipolla|Formaggio|Carote a fili|Pane|Frutta fresca||SCUOLA INFANZIA|PIZZA margherita|Zucchine e carote julienne|Pane|Yogurt bio",
-        "day_3": "Pasta integrale al ragù di verdure*|Bastoncini di pesce*|Pomodori e cetrioli|Pane|Frutta fresca",
-        "day_4": "Pasta al pesto|Hamburger di manzo* al pomodoro|Fagiolini all’olio*|Pane INTEGRALE|Frutta fresca",
-        "day_5": "Insalata di pasta (tonno, pomodori, formaggio, mais, olive)|Piselli saporiti*|Pane|Frutta fresca"
+        "day_1": "Pasta alla norma|Hamburger di manzo*|Insalata verde e rossa|Pane - Frutta fresca",
+        "day_2": "Pastina in brodo|vegetale di carote,|sedano e cipolla|Formaggio fresco|spalmabile|Carote a fili - Pane|Frutta fresca||SCUOLA INFANZIA|Pizza margherita|Carote a fili|Pane – Yogurt alla frutta bio",
+        "day_3": "Pasta integrale al ragù di verdure*|Bastoncini di merluzzo*|Pomodori e cetrioli|Pane - Frutta fresca",
+        "day_4": "Pasta al pesto|Scaloppina di tacchino alla salvia|Carote e fagiolini*|Pane INTEGRALE|Frutta fresca",
+        "day_5": "Insalata di pasta (tonno, pomodori, formaggio, mais, olive)|Piselli saporiti*|Pane|Budino"
       }
     }
   ]
