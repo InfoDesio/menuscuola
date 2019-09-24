@@ -1,0 +1,40 @@
+{
+  "name": "Scuole dell’Infanzia e Primarie - Dieta per no glutine",
+  "menu": [
+    {
+      "valid_from": "16/09/2019",
+      "valid_to": "18/10/2019",
+      "date_start": "02/09/2019",
+      "pdf": "",
+      "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.\n**PROSCIUTTO COTTO SENZA GLUTINE, LATTOSIO E POLIFOSFATI. BRESAOLA SENZA GLUTINE",
+      "week_1": {
+        "day_1": "Pasta senza glutine allo zafferano no dado|Prosciutto cotto (materne)**|Bresaola (elementari)|Carote a fili - Pane senza glutine- Frutta fresca",
+        "day_2": "Vellutata di verdure* no dato con pastinasenza glutine|Pollo al forno|Patate all’olio*|Pane senza|Frutta fresca",
+        "day_3": "Riso al pomodoro no dato|Formaggio Latteria|Spinaci all’olio*|Pane senza - Frutta fresca",
+        "day_4": "Pasta senza glutine olio|Uova sode o frittata solo verdure|Insalata|Pane senza glutine|Yogurt alla frutta bio",
+        "day_5": "Pasta senza glutine al pomodoro no dado|Platessa gratinata* con pane senza glutine|Piselli e carote*|Pane senza glutine|Frutta fresca"
+      },
+      "week_2": {
+        "day_1": "Pasta senza glutine in br vegetale no dado|Tonno - Patate al forno|Pane senza glutine - Frutta fresca",
+        "day_2": "Gnocchi senza glutine al pesto speciale|Hamburger solo manzo* al pomodoro no dato s/glutine|Carote baby*|Pane senza glutine|Frutta fresca",
+        "day_3": "Pasta senza glutine all'olio|Frittata con verdure*|Insalata e mais*|Pane senza glutine - Frutta fresca",
+        "day_4": "Pasta senza glutine pomodoro no dato|Bocconcini di pollo impanati con pane senza glutine|Pomodori in insalata|Pane senza glutine|Frutta fresca",
+        "day_5": "Riso al pomodoro no dado|con verdure*|Formaggio fresco|spalmabile -|Insalata verde e|carote - Pane senza glutine -|Frutta fresca||AGNESI/DOLOMITI/SAN GIORGIO|Pizza margherita s/glutine|Insalata e mais*|Pane e Yogurt frutta bio s/glutine"
+      },
+      "week_3": {
+        "day_1": "Ravioli s/glutine olio e salvia|Affettato di tacchino s/glutine|Zucchine e carote julienne|Pane senza glutine - Frutta fresca",
+        "day_2": "Riso alla parmigiana no dado|Pollo al forno|Fagiolini all’olio*|Pane senza glutine|Frutta fresca",
+        "day_3": "Minestra estiva *con riso no dado|Tortino solo verdure* no legumi con pane senza glutine|Insalata|Pane senza glutine - Frutta fresca",
+        "day_4": "Pasta senza glutine con|speck e zucchine*|Mozzarella|Pomodori in insalata|Pane senza glutine|Frutta fresca||TOLSTOJ/DIAZ/PRATI|Pizza margherita s/glutine|Pomodori |Pane e Yogurt bio s/glutine",
+        "day_5": "Pasta senza glutine al pomodoro e basilico no dado|Fettuccine di totano *gratinate con farina o pane senza glutine|Carote a fili|Pane senza glutine|Mousse di frutta s/glutine"
+      },
+      "week_4": {
+        "day_1": "Pasta senza glutine alla norma no dado|Hamburger solo manzo* no dado s/glutine|Insalata verde e rossa|Pane senza glutine - Frutta fresca",
+        "day_2": "Riso in br vegetale no dato|Formaggio fresco spalmabile|Carote a fili - Pane senza glutine|Frutta fresca||SCUOLA INFANZIA|Pizza margherita s/glutine|Carote a fili|Pane e Yogurt bio s/glutine",
+        "day_3": "Pasta senza glutine al ragù di verdure no dado|Platessa gratinata* con pane senza glutine|Pomodori e cetrioli|Pane senza glutine|Frutta fresca",
+        "day_4": "Pasta senza glutine al pestospeciale|Scaloppina di tacchino alla salvia con farina senza glutine|Carote e fagiolini all'olio*|Pane senza glutine|Frutta fresca",
+        "day_5": "Insalata di pasta senza glutine (tonno, pomodori, formaggio, mais, NO olive)|Piselli saporiti no dado|Pane senza glutine|Budino cioccolato/vaniglia granarolo s/glutine"
+      }
+    }
+  ]
+}
