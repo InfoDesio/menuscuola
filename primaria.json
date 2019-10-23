@@ -5,7 +5,7 @@
       "valid_from": "16/09/2019",
       "valid_to": "18/10/2019",
       "date_start": "02/09/2019",
-      "pdf":"",
+      "pdf": "",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
         "day_1": "Pasta in salsa mimosa|Prosciutto cotto - Scuola Infanzia|Bresaola - Scuola Primaria|Carote a fili - Pane - Frutta fresca",
@@ -37,13 +37,12 @@
       }
     },
     {
-      "valid_from": "22/10/2018",
-      "valid_to": "12/04/2019",
-      "date_start": "22/10/2018",
-      "pdf":"17-18-PRIMARIA_INVERNALE.pdf",
+      "valid_from": "21/10/2019",
+      "valid_to": "17/04/2019",
+      "date_start": "21/10/2019",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
-        "day_1": "Riso con crema di zafferano|Bastoncini di merluzzo*|Fagiolini all’olio*|Pane|Yogurt alla frutta",
+        "day_1": "Riso con crema di zafferano|Bastoncini di merluzzo non prefitti*|Fagiolini all’olio*|Pane|Yogurt alla frutta",
         "day_2": "Crema di verdure* con orzo|Spezzatino di pollo con salsiccia|al pomodoro|Patate al forno*|Pane|Frutta fresca",
         "day_3": "Pasta al ragù di carne|Mozzarella|Insalata|Pane|Frutta fresca",
         "day_4": "Pasta integrale al pomodoro e|verdure*|Bocconcini di tacchino impanati|Carote baby*|Pane INTEGRALE|Frutta fresca",
@@ -52,7 +51,7 @@
       "week_2": {
         "day_1": "Pasta in salsa rosa|Prosciutto cotto|Finocchi in insalata|Pane|Frutta fresca",
         "day_2": "Ravioli di carne in brodo vegetale di|carote, sedano e cipolla|Hamburger di manzo*|Patate all’olio*|Pane|Frutta fresca",
-        "day_3": "Pasta integrale al pomodoro|Formaggio fresco spalmabile|Barbabietole|Pane|Frutta fresca",
+        "day_3": "Pasta integrale al pomodoro|Formaggio fresco spalmabile|Zucchine al forno|Pane|Frutta fresca",
         "day_4": "Piatto unico:|Lasagne alla bolognese*|Misto d’insalata e carote|Pane INTEGRALE|Dolcetto",
         "day_5": "Pastina in brodo vegetale di sedano, carote e cipolla|Platessa impanata*|Carote e piselli*|Pane|Frutta"
       },
@@ -75,7 +74,7 @@
       "valid_from": "13/04/2019",
       "valid_to": "30/06/2019",
       "date_start": "15/04/2019",
-      "pdf":"17-18-PRIMARIA_ESTIVO.pdf",
+      "pdf": "17-18-PRIMARIA_ESTIVO.pdf",
       "note": "(*) I PIATTI CONTRASSEGNATI CON ASTERISCO POSSONO ESSERE PREPARATI CON MATERIE PRIME CONGELATE/SURGELATE ALL’ORIGINE.",
       "week_1": {
         "day_1": "Pasta in salsa mimosa|Prosciutto cotto - Scuola Infanzia|Bresaola - Scuola Primaria|Carote a fili - Pane - Frutta fresca",
